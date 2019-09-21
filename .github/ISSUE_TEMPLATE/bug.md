@@ -1,6 +1,6 @@
 Before opening:
 
-- [Search for duplicate or closed issues](https://github.com/cybotranik-wui/cybotranik-wui/issues)
+- [Search for duplicate or closed issues](../../../../issues)
 - [Validate](https://html5.validator.nu/) any HTML to avoid common problems
 
 Bug reports must include:

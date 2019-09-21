@@ -1,7 +1,7 @@
 Before opening:
 
 - [Search for duplicate or closed issues](issues)
-- Read the [contributing guidelines](blob/master/CONTRIBUTING.md)
+- Read the [contributing guidelines](../../../../blob/master/CONTRIBUTING.md)
 
 Feature requests must include:
 
